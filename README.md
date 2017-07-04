@@ -2,5 +2,6 @@
 ![]()
 #目录
 ![](https://github.com/mamba88/SRS/blob/master/SRSystem/11.png)
-![]()
+#选课成绩
+![](https://github.com/mamba88/SRS/blob/master/SRSystem/12.png)
 ![]()
